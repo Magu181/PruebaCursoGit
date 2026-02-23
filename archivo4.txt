@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 Linea1
 Linea2
-linea3
-linea4
-linea5
-=======
-Linea1
->>>>>>> parent of 8c4dc43 (agregando linea 3)
+
+
